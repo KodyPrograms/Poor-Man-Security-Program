@@ -18,7 +18,7 @@ This project implements a basic webcam using the YOLOv8 object detection model t
 1. Clone the repository:
    ```bash
    git clone https://github.com/KodyPrograms/Poor-Man-Security-Program.git
-   cd security-camera-yolov8
+   cd Poor-Man-Security-Program
    ```
 
 2. Install dependencies:
